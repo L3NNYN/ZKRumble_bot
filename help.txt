@@ -1,3 +1,5 @@
-py -3.10 -m venv botenv
+To activate a virtual environment in Windows execute the following:
 
-botenv\\Scripts\\activate
+- py -3.10 -m venv botenv
+
+- botenv\\Scripts\\activate
